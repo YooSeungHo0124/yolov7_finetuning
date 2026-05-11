@@ -1,0 +1,6 @@
+names:
+- fire
+- smoke
+nc: 2
+train: /data/yolov7_finetuning/dataset/images/train
+val: /data/yolov7_finetuning/dataset/images/val

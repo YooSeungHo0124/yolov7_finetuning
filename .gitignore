@@ -2,7 +2,6 @@
 images/
 dataset/
 runs/
-data.yaml
 
 # Python
 __pycache__/
